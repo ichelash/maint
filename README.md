@@ -4,6 +4,6 @@ This is a simple maintenance page feel free to use it !
 
 ## How to install
 
-Simply download the index.html, modify its content, and copy it to your desired path.
+Simply download the index.html, modify its content, and copy it to your desired path.(e.g public_html) folder
 
 
